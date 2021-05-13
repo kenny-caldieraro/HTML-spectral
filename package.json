@@ -1,0 +1,14 @@
+{
+  "name": "spectral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss -o css"
+  },
+  "author": "kenny",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.32.13"
+  }
+}
